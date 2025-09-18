@@ -53,7 +53,7 @@
 以下是我们根据长期使用和用户反馈，筛选出的几个高质量 ChatGPT 镜像平台：
 
 *   **一下AI [https://xsimplechat.com/](https://xsimplechat.com)**: 运营时间较长，口碑良好。支持最新的 **GPT-4o** 模型，并集成了 AI 绘画功能，扫码即可登录，非常便捷。
-*   **蓝鲸AI [https://chat.lanjingai.org/](https://chat.lanjingai.org/)**: 模型支持全面，不仅有 **GPT-4o**，还集成了 Claude、Gemini 等其他优秀模型，适合需要多模型对比使用的用户。
+*   **蓝鲸AI [https://ai.lanjingai.org/](https://ai.lanjingai.org/)**: 模型支持全面，不仅有 **GPT-4o**，还集成了 Claude、Gemini 等其他优秀模型，适合需要多模型对比使用的用户。
 *   **Lify [https://chat.lify.vip](https://chat.lify.vip/)**: 功能丰富，除了基础对话，还提供了 AI 文件分析、AI PPT 生成、思维导图等实用工具，适合办公和学习场景。
 *   **GPT for Us [gpt4us.org](https://gpt4us.org/chatgpt-china-site)**: 界面简洁，专注于提供纯粹的对话体验，响应速度快。
 
