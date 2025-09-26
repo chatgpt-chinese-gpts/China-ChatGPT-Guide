@@ -1,7 +1,7 @@
 # China-ChatGPT-Guide
 国内如何使用 ChatGPT？最容易懂的 ChatGPT 介绍与教学指南
 
-> **最后更新：** <em style="color: grey;">（2024年9月3日）</em> 
+> **最后更新：** <em style="color: grey;">（2024年9月26日）</em> 
 
 > **作者：** ChatGPT-China-Guide 
 
